@@ -1,2 +1,2 @@
-# the-gallery-website
+# The Gallery
 Coming Soon...
