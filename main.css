@@ -2,12 +2,11 @@
     font-family: sans-serif;
 
 }
-.hover-text{
-    display: none;
-    background-color: antiquewhite;
-    padding: 20px;
+
+img {
+    filter: grayscale(100%);
 }
 
-.card-img-top:hover + .hover-text{
-    display: block;
+img:hover {
+    filter: grayscale(0%);
 }
