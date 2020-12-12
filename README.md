@@ -1,2 +1,5 @@
 # The Gallery
-Coming Soon...
+is here!
+
+http://explorethegallery.com/
+
